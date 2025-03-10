@@ -1,5 +1,0 @@
-<map id="chargerAttacker" name="chargerAttacker">
-<area shape="rect" id="node1" title=" " alt="" coords="5,155,131,181"/>
-<area shape="rect" id="node2" href="$classAttacker.html" title=" " alt="" coords="30,80,106,107"/>
-<area shape="rect" id="node3" href="$classEntity.html" title=" " alt="" coords="38,5,98,32"/>
-</map>

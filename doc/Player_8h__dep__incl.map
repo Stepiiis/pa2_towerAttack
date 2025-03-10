@@ -1,9 +1,0 @@
-<map id="src/Player.h" name="src/Player.h">
-<area shape="rect" id="node1" title=" " alt="" coords="143,5,241,32"/>
-<area shape="rect" id="node2" href="$Enemy_8h.html" title=" " alt="" coords="54,80,154,107"/>
-<area shape="rect" id="node4" href="$Game_8h.html" title=" " alt="" coords="144,155,240,181"/>
-<area shape="rect" id="node7" href="$Player_8cpp.html" title=" " alt="" coords="229,80,341,107"/>
-<area shape="rect" id="node3" href="$Enemy_8cpp.html" title=" " alt="" coords="5,155,120,181"/>
-<area shape="rect" id="node5" href="$Game_8cpp.html" title=" " alt="" coords="71,229,182,256"/>
-<area shape="rect" id="node6" href="$main_8cpp.html" title=" " alt="" coords="206,229,311,256"/>
-</map>

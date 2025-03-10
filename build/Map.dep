@@ -1,2 +1,0 @@
-build/Map.o: src/Map.cpp src/logFile.h src/exceptions.h src/Entity.h \
- src/constants.h src/Map.h src/Definitions.h src/HelpStructs.h

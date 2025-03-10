@@ -1,8 +1,0 @@
-<map id="CGame" name="CGame">
-<area shape="rect" id="node1" title=" " alt="" coords="161,273,232,300"/>
-<area shape="rect" id="node2" href="$classEnemy.html" title=" " alt="" coords="114,184,181,211"/>
-<area shape="rect" id="node3" href="$classMap.html" title=" " alt="" coords="147,95,198,121"/>
-<area shape="rect" id="node6" href="$classPlayer.html" title=" " alt="" coords="239,184,301,211"/>
-<area shape="rect" id="node4" href="$classPoint.html" title=" " alt="" coords="224,5,279,32"/>
-<area shape="rect" id="node5" href="$classCDefinitions.html" title=" " alt="" coords="326,184,427,211"/>
-</map>

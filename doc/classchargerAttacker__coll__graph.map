@@ -1,8 +1,0 @@
-<map id="chargerAttacker" name="chargerAttacker">
-<area shape="rect" id="node1" title=" " alt="" coords="18,349,143,376"/>
-<area shape="rect" id="node2" href="$classAttacker.html" title=" " alt="" coords="43,273,119,300"/>
-<area shape="rect" id="node3" href="$classEntity.html" title=" " alt="" coords="5,184,65,211"/>
-<area shape="rect" id="node4" href="$classMap.html" title=" " alt="" coords="10,95,61,121"/>
-<area shape="rect" id="node5" href="$classPoint.html" title=" " alt="" coords="8,5,63,32"/>
-<area shape="rect" id="node6" href="$structCEffects.html" title=" " alt="" coords="90,184,165,211"/>
-</map>

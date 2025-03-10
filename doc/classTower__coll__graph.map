@@ -1,6 +1,0 @@
-<map id="Tower" name="Tower">
-<area shape="rect" id="node1" title=" " alt="" coords="5,260,65,287"/>
-<area shape="rect" id="node2" href="$classEntity.html" title=" " alt="" coords="5,184,65,211"/>
-<area shape="rect" id="node3" href="$classMap.html" title=" " alt="" coords="10,95,61,121"/>
-<area shape="rect" id="node4" href="$classPoint.html" title=" " alt="" coords="8,5,63,32"/>
-</map>

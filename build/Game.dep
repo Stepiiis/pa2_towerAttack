@@ -1,3 +1,0 @@
-build/Game.o: src/Game.cpp src/Game.h src/HelpStructs.h src/Attacker.h \
- src/Entity.h src/constants.h src/Map.h src/Definitions.h src/logFile.h \
- src/exceptions.h src/Player.h src/Enemy.h src/Tower.h src/Menu.h

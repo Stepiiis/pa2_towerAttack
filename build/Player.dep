@@ -1,3 +1,0 @@
-build/Player.o: src/Player.cpp src/Player.h src/Entity.h src/constants.h \
- src/Map.h src/Definitions.h src/logFile.h src/exceptions.h \
- src/HelpStructs.h src/Attacker.h

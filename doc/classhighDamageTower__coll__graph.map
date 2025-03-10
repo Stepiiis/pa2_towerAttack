@@ -1,7 +1,0 @@
-<map id="highDamageTower" name="highDamageTower">
-<area shape="rect" id="node1" title=" " alt="" coords="5,336,148,363"/>
-<area shape="rect" id="node2" href="$classTower.html" title=" " alt="" coords="47,260,107,287"/>
-<area shape="rect" id="node3" href="$classEntity.html" title=" " alt="" coords="47,184,107,211"/>
-<area shape="rect" id="node4" href="$classMap.html" title=" " alt="" coords="51,95,102,121"/>
-<area shape="rect" id="node5" href="$classPoint.html" title=" " alt="" coords="49,5,104,32"/>
-</map>
