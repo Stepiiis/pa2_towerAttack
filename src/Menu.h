@@ -43,7 +43,7 @@ struct CMenu{
 
     /// shows menu which allows user to change difficulty
     /// @param dif current difficulty - adjusted according to choice inside menu
-    static int optionsMenu(int &dif);
+    static int optionsMenu(int dif);
 
     /// prints a picture on screen on specified coordinate
     static void printShrek(WINDOW* menu_win, int posY, int posX);

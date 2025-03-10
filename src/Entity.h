@@ -123,7 +123,7 @@ protected:
 
     int m_damage;
 
-    int m_attackSpeed{};
+    int m_attackSpeed = 1;
     int m_attackClock = 0;
 
     int m_radius{};

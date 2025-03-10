@@ -141,7 +141,7 @@ const std::map<int, std::unique_ptr<Attacker> > &Player::getAttackers() const {
     return m_attackers;
 }
 
-std::vector<std::pair<int, int> > Player::getTowersToAttack() const {
+std::vector<std::pair<int, int>> Player::getTowersToAttack() const {
     std::vector<std::pair<int, int> > towers;
     for (auto &attacker: m_attackers) {
         if (attacker.second->checkRadius(Point::Tower)) {

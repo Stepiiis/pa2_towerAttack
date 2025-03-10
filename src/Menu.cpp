@@ -276,11 +276,11 @@ std::string CMenu::saveMenu() {
     return saveName;
 }
 
-int CMenu::optionsMenu(int &difficulty) {
+int CMenu::optionsMenu(int difficulty) {
     CMenu options(
             {"Please choose difiiculty"},
-            {"Easy", "Normal", "Hard"},difficulty
+            {"Easy", "Normal", "Hard"}, difficulty
     );
-    difficulty = options.show();
+    return options.show();
 }
 

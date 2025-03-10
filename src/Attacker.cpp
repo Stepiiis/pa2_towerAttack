@@ -188,7 +188,7 @@ std::string fastAttacker::getTypeName() const {
 }
 
 bool fastAttacker::checkSpecialization(const Point &point) {
-    if(point._inRadiusOf.count(Point::Tower) == 1)
+    if(point._inRadiusOf.count(Point::Tower) > 1)
         return false;
     if(point._type == Point::Attacker || point._type == Point::Entry || point._type== Point::Tower)
         return false;

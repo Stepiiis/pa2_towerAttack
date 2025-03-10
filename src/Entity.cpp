@@ -148,14 +148,15 @@ const std::set<std::pair<int, int>>& Entity::getDeltas() const{
 
 
 bool Entity::canAttack(){
-    m_attackClock++;
-    if(m_attackClock%m_attackSpeed == 0){
+    m_attackClock += 1;
+    if(m_attackClock % m_attackSpeed == 0){
         m_attackClock = 0;
         if(m_hasFocus)
             return true;
         else
             return false;
     }
+    return false;
 }
 
 int Entity::getRadius() const{

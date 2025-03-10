@@ -575,7 +575,7 @@ bool CGame::play() {
                     return EXIT_FAILURE;
             }
         } else if (choice == 2) {
-            CMenu::optionsMenu(m_difficulty);
+            m_difficulty = CMenu::optionsMenu(m_difficulty);
             continue;
         } else if (choice == 3) {
             //exit
@@ -602,10 +602,8 @@ bool CGame::pauseMenu(const char *msg) {
 }
 
 void CGame::drawCurrentMoney() {
-    std::stringstream ss;
-    ss << "Money: " << m_player->getCoins() << " ";
     int width = m_gameMap.getMapWidth();
-    mvwprintw(m_game_window, 2, width + 2, ss.str().c_str());
+    mvwprintw(m_game_window, 2, width + 2, "Money: %d ", m_player->getCoins());
 }
 
 bool CGame::performAttacks() {
